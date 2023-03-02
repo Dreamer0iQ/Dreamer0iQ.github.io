@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3db0e6de.css",
+    "main.js": "/static/js/main.35f79cab.js",
+    "static/media/airflow.png": "/static/media/airflow.c12ba7ac2853ef3cf055.png",
+    "index.html": "/index.html",
+    "main.3db0e6de.css.map": "/static/css/main.3db0e6de.css.map",
+    "main.35f79cab.js.map": "/static/js/main.35f79cab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3db0e6de.css",
+    "static/js/main.35f79cab.js"
+  ]
+}
