@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.d62abade.css",
-    "main.js": "/static/js/main.c20c2b72.js",
+    "main.css": "/static/css/main.2f7b5918.css",
+    "main.js": "/static/js/main.f21ac519.js",
+    "static/media/airflow_Moment.jpg": "/static/media/airflow_Moment.fa97201429f6e0c23a4f.jpg",
+    "static/media/airflow-mobile_Moment.jpg": "/static/media/airflow-mobile_Moment.ddca1f28a4397e5cfb22.jpg",
     "index.html": "/index.html",
-    "main.d62abade.css.map": "/static/css/main.d62abade.css.map",
-    "main.c20c2b72.js.map": "/static/js/main.c20c2b72.js.map"
+    "main.2f7b5918.css.map": "/static/css/main.2f7b5918.css.map",
+    "main.f21ac519.js.map": "/static/js/main.f21ac519.js.map"
   },
   "entrypoints": [
-    "static/css/main.d62abade.css",
-    "static/js/main.c20c2b72.js"
+    "static/css/main.2f7b5918.css",
+    "static/js/main.f21ac519.js"
   ]
 }
