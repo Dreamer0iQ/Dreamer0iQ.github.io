@@ -1,5 +1,5 @@
 # My first React-project
-# Common site with goods their filtering, adding to cart and fake request of buy. u can try to use it in your goals. 
+# Common site with goods: their filtering, adding to cart and fake buy request. U can try to use it in your goals. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
